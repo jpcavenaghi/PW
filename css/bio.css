@@ -1,0 +1,36 @@
+body{
+    background-image: url(img/bio.jpg);
+    overflow: hidden;
+}
+
+h1{
+    font-family: 'night', Times, serif;
+    font-size: 190px;    
+    color: black;
+    position: relative; top: 10px; left: 535px; right: 535px;
+    background-position: 50px;
+    text-shadow: 1px 1px 1px red, -1px 1px red, 1px -1px 1px red, -1px -1px 1px red;
+}
+
+nav{
+    font-family: 'grap', Courier, monospace
+}
+
+p{
+    font-size: 19px;
+    font-family: 'chill', Times, serif;
+    color: aliceblue;
+    text-align: justify;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border: 3px solid #610505;
+    background-color:#610505;
+    width:1000px;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 50px;
+    margin: 0 auto;
+    text-shadow: 1px 1px 1px #000, -1px 1px #000, 1px -1px 1px #000, -1px -1px 1px #000
+}

@@ -1,0 +1,34 @@
+body{
+    background-image: url(img/crsds.jpg);
+    overflow: hidden;
+}
+
+h1{
+    font-family: 'night', Times, serif; 
+    font-size: 85px;     
+    color: black;
+    position: relative; top: 0px; left: 570px;
+    text-shadow: 1px 1px 1px red, -1px 1px red, 1px -1px 1px red, -1px -1px 1px red;
+     }
+
+     nav{
+        font-family: 'grap', Times, serif;
+        } 
+
+.crs{
+    list-style: none;
+    color: aliceblue;
+    padding-top: 8px;  
+    text-align: justify;  
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'chill', Times, serif;
+    font-size:16.7px;
+    text-shadow: 1px 1px 1px black, -1px 1px black, 1px -1px 1px black, -1px -1px 1px black;
+}
+
+
+b{
+    color: black;
+    text-shadow: 1px 1px 1px red, -1px 1px red, 1px -1px 1px red, -1px -1px 1px red;
+}

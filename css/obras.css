@@ -1,0 +1,44 @@
+body{
+    background-image: url(img/obra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+   font-family: 'night', Times, serif; 
+   font-size: 500px;     
+   color: black;
+   position: absolute; top: 75px; left: 570px;
+   text-shadow: 1px 1px 1px red, -1px 1px red, 1px -1px 1px red, -1px -1px 1px red;
+    }
+
+    nav{
+        font-family: 'grap', Times, serif;
+        } 
+
+    p{
+        font-family: 'chill', Times, serif;
+        padding-top: 115px;
+        padding-left: 50px;
+        color: black;
+        text-shadow: 1px 1px 1px red, -1px 1px red, 1px -1px 1px red, -1px -1px 1px red;
+    }
+
+img{
+    width: 500px; height: 300px;
+}
+
+.carousel-inner > .item > {
+    margin: 0 auto;
+    
+  }
+  .carousel-inner > .carousel-item > img {
+    width: 700px;
+    height: 400px; 
+    border-left: 100px;
+    border-right: 100px;
+  }
+
+  p{
+      font-size: 30px;
+  }
